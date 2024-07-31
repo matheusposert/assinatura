@@ -1,0 +1,19 @@
+:root {
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #167BF7;
+    --cor-de-fundo: #00030C;
+}
+body 
+    body {
+        background-color: var(--cor-de-fundo);
+        color: var(--branco-principal);
+    }
+    <body>
+    <h1>Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único.</h1>
+</body>
+
+* {
+    margin: 01;
+    padding: 01;
+}
